@@ -1,4 +1,3 @@
-Real-Chat-Now-App
 Real Chat Now is a real-time chat application that allows users to communicate instantly with each other. Built with modern web technologies like React, Tailwind CSS, and WebSockets, the app offers a seamless, fast, and interactive messaging experience.
 
 🚀 Features
